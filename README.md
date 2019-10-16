@@ -1,7 +1,7 @@
 # opendatascience.com
 
 ## Three methods of data pre-processing for text classification
-As I developer advocate at IBM, I work to empower AI, Machine Learning, and Deep Learning developers to be successful with both open source tools and those found on IBM Cloud. I also like to better my understanding of AI/ML/DL developers by performing deep learning on them. I recently built a [classifier](https://github.com/PubChimps/dlclassifier) to predict a developer's Deep Learning Framework of choice based on the code that they wrote, via examples of TensorFlow and PyTorch projects.
+As a developer advocate at IBM, I work to empower AI, Machine Learning, and Deep Learning developers to be successful with both open source tools and those found on IBM Cloud. I also like to better my understanding of AI/ML/DL developers by performing deep learning on them. I recently built a [classifier](https://github.com/PubChimps/dlclassifier) to predict a developer's Deep Learning Framework of choice based on the code that they wrote, via examples of TensorFlow and PyTorch projects.
 
 In order to pass code examples through a neural network, some transformations had to be performed to get data in a state that a network could use to classify. There were three techniques that were beneficial for me when developing this project, described below.
 
