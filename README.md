@@ -19,7 +19,7 @@ Keeping each word as a feature in a data set can lead to one that is extremely s
 ### Embeddings
 There is a tradeoff in the first two methods described above between having a full representation of the data via one-hot encoding or having a dense data set by limiting the length of the feature vector. The benefits of both can be had via word embeddings. With respect to this project, embeddings refer the ability to translate data from a real space into an embedded space that is both more dense and trainable. Keras provides a nice API to easily add a word embedding as a first layer in a network via its layers library, an example of how to use it is illustrated below. Like in the previous example, the resulting length of the embedded space is a hyperparameter to be set or found via optimization. 
 
-| ![embeddings.jpg](images/embedding.jpg) | 
+| ![embeddings.jpg](images/embedding.png) | 
 |:--:| 
 | *Embedding is easy with Keras and creates a dataset that is more dense and easier to train* |
 
