@@ -25,4 +25,4 @@ There is a tradeoff in the first two methods described above between having a fu
 
 
 ### Want to get started?
-If you would like to try the concepts described here, I will be presenting this material, as well as model building, serving, and deep learning framework selection at [ODSC Europe](https://odsc.com/training/portfolio/choosing-the-right-deep-learning-framework-a-deep-learning-approach/) in London this November at the workshop "Choosing The Right Deep Learning Framework: A Deep Learning Approach." 
+If you would like to try the concepts described here, I will be presenting this material, as well as model building, serving, and deep learning framework selection at [ODSC Europe](https://odsc.com/training/portfolio/choosing-the-right-deep-learning-framework-a-deep-learning-approach/) in London this November at the workshop "Choosing The Right Deep Learning Framework: A Deep Learning Approach," and writing about it on the [IBM Data Science Community](https://www.ibm.com/community/datascience/). 
